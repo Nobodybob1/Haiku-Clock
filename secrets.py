@@ -1,0 +1,4 @@
+# Credentials for WIFI
+WIFI_SSID = ""
+WIFI_PASSWORD = ""
+TIMEZONE_OFFSET = 1
